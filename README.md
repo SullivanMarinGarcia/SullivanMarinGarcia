@@ -1,9 +1,9 @@
-### Sullivan Marín — Software Engineer & Quantitative Finance Developer
+### Sullivan Marín — Software Engineer | AI & Quantitative Finance
 
-Operating at the intersection of production-grade software engineering and quantitative financial modeling.
+Operating at the intersection of production-grade software engineering, artificial intelligence, and quantitative financial modeling.
 
-- **Software Engineering:** Full-stack development, scalable system architecture, and agile delivery (SCRUM).
-- **Quantitative Finance & Data:** Statistical inference, risk modeling (Historical & Parametric VaR), stochastic processes (Markov Chains), and CAPM market sensitivity analysis in Python.
+- **Software Engineering:** Full-stack development, scalable system architecture, financial process automation, and agile delivery (SCRUM).
+- **AI & Quantitative Finance:** Machine Learning, Neural Networks, Financial NLP, Algorithmic Trading, Portfolio Optimization, and Quantitative Risk Modeling (VaR, CAPM, Stochastic Processes) in Python.
 
 #### Core Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
